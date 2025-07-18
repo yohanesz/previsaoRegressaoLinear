@@ -1,4 +1,4 @@
-readme_content = """# Análise e Previsão do Nível do Rio
+# Análise e Previsão do Nível do Rio
 
 Este projeto tem como objetivo analisar dados históricos de nível do rio e chuvas para treinar um modelo de machine learning capaz de prever o nível do rio em Rio do Sul, utilizando dados de outras cidades como Ituporanga e Taió.
 
